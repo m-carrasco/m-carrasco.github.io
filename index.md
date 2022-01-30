@@ -2,49 +2,40 @@
 layout: homepage
 ---
 
-## About Me
+## :wave: About Me 
 
-I am a Ph.D. student at ...
+I'm a PhD student supervised by Prof. Cristian Cadar at Imperial College London and a member of the Software Reliability Group. Nowadays, my primary research efforts are towards detecting portability and environment-related bugs. As a side project, I develop **net-ssa** which is an intermediate representation for .NET bytecode. Recently, I've started working on fuzzing-based testing techniques as well. Simply put, I'm a Program Analysis enthusiast.
 
-## Research Interests
+## :eyeglasses: Research Interests 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Software Testing and Verification techniques** applied to real software.
+- **Compilers topics** such as the construction of intermediate representations.
+- **Research driven by applicability**: from theory to practice on real scenarios.
 
-## News
+## :blue_book: Education 
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Ph.D. Computer Science.** Imperial College London. London. [2021 - ongoing]
+- **BSc & MSc. Computer Science.** Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. [2013 - 2019]
 
-## Publications
+## :construction_worker: Employment 
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+- **Research Assistant.** Imperial College London. London. [2021 - ongoing]
+  - *Reference:* **Prof. Cristian Cadar.** [[Website](https://www.doc.ic.ac.uk/~cristic/)]
+- **R&D Engineer.** Quarkslab, London & Buenos Aires. [2019 - 2021]
+  - *Reference:* **Dr. Juan Manuel Martinez.** [[Website](https://www.linkedin.com/in/jmartinezcaamao/)]
+- **Research Intern.** SRI International, New York. [2019 - 2019]
+  - *Reference:* **Dr. Michael Emmi.** [[Website](https://michael-emmi.github.io/)]
+- **Research Intern.** Quarkslab, Paris. [2018-2019]
+  - *Reference:* **Dr. Juan Manuel Martinez.** [[Website](https://www.linkedin.com/in/jmartinezcaamao/)]
+- **Undergraduate Research Assistant.** LaFHIS, Universidad de Buenos Aires. [2017 - 2018]
+  - *Reference:* **Dr. Diego Garbervetsky.** [[Website](https://lafhis.dc.uba.ar/~diegog)]
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+## :rocket: Projects 
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+- **net-ssa.** An intermediate representation for .NET bytecode. [[Github]](https://github.com/m-carrasco/net-ssa/)
+- **LLVM-based Java obfuscator.** A translator from Java bytecode to LLVM-IR and viceversa. Aimed to re-use existing LLVM-based obfuscations. 
+- **MSc thesis.** A LLVM-based virtual machine obfuscation and countermeasures against devirtualization techniques.
+- **TinyBCT.** A .NET bytecode translator to Boogie. [[Github]](https://github.com/m-carrasco/TinyBCT)
 
-## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+
