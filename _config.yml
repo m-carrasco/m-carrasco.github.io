@@ -1,15 +1,15 @@
-title: Your Name
+title: Manuel Carrasco
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: Imperial College London
+email: m.carrasco (at) imperial.ac.uk
 keywords: minimal academic
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-linkedin: https://www.linkedin.com/
+github_link: https://github.com/m-carrasco
+linkedin: https://www.linkedin.com/in/manuel-carrasco-59399262/
 avatar: ./assets/img/avatar.png
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
+canonical: https://m-carrasco.github.io/
 remote_theme: yaoyao-liu/minimal-light
