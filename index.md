@@ -34,7 +34,7 @@ I'm a PhD student supervised by Prof. Cristian Cadar at Imperial College London 
 ## Projects 
 
 - **net-ssa.** An intermediate representation for .NET bytecode. [[Github]](https://github.com/m-carrasco/net-ssa/)
-- **LLVM-based Java obfuscator.** A translator from Java bytecode to LLVM-IR and viceversa. Aimed to re-use existing LLVM-based obfuscations. 
+- **LLVM-based Java obfuscator.** A translator from Java bytecode to LLVM-IR and vice versa. It aimed to re-use existing LLVM-based obfuscations
 - **MSc thesis.** A LLVM-based virtual machine obfuscation and countermeasures against devirtualization techniques.
 - **TinyBCT.** A .NET bytecode translator to Boogie. [[Github]](https://github.com/m-carrasco/TinyBCT)
 
