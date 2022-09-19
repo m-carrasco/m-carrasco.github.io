@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me 
 
-I'm a PhD student supervised by Prof. Cristian Cadar at Imperial College London and a member of the Software Reliability Group. Nowadays, my primary research efforts are towards detecting portability and environment-related bugs. As a side project, I develop **net-ssa** which is an intermediate representation for .NET bytecode. Recently, I've started working on fuzzing-based testing techniques as well. Simply put, I'm a Program Analysis enthusiast.
+I'm a PhD student supervised by Prof. Cristian Cadar at Imperial College London and a member of the Software Reliability Group. Nowadays, I am working on 
+
+- SMT Sampling for Program Testing
+- Portability Bugs Detection in C Programs
+- Formal Verification of C#
 
 ## Research Interests 
 
