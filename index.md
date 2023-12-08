@@ -7,8 +7,7 @@ layout: homepage
 I'm a PhD student supervised by Prof. Cristian Cadar at Imperial College London and a member of the Software Reliability Group. Nowadays, I am working on 
 
 - SMT Sampling for Program Testing
-- Portability Bugs Detection in C Programs
-- Formal Verification of C#
+- Fuzzing for SMT Sampling
 
 ## Research Interests 
 
