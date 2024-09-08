@@ -4,10 +4,11 @@ layout: homepage
 
 ## About Me 
 
-I'm a PhD student supervised by Prof. Cristian Cadar at Imperial College London and a member of the Software Reliability Group. Nowadays, I am working on 
+I'm a PhD student supervised by Prof. Cristian Cadar and Prof. Alastair Donaldson at Imperial College London and a member of the Software Reliability Group. Nowadays, I am working on 
 
-- SMT Sampling for Program Testing
-- Fuzzing for SMT Sampling
+- SMT Sampling for Fuzzing
+- SMT Sampling via Coverage-guided Fuzzing
+- Verification-aware Languages Testing
 
 ## Research Interests 
 
